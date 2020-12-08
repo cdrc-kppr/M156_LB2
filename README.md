@@ -3,8 +3,8 @@
 ### Alle Links
 
 #### Antonio
-*UML
-*Code
+* UML
+* Code
 #### Cedric
-*UML
-*Code
+* UML
+* Code
